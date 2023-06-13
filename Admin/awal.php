@@ -355,7 +355,7 @@
                     <div class="modal-body">Silahkan klik "Keluar" jika Anda yakin.</div>
                     <div class="modal-footer">
                         <button class="btn btn-secondary" type="button" data-dismiss="modal">Batal</button>
-                        <a class="btn btn-primary" href="login.html">Keluar</a>
+                        <a class="btn btn-primary" href="index.html">Keluar</a>
                     </div>
                 </div>
             </div>
